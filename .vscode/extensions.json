@@ -6,6 +6,7 @@
         "dbaeumer.vscode-eslint",
         "msjsdiag.debugger-for-chrome
 
+
 		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
 		
 	]
